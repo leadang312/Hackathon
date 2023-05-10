@@ -1,0 +1,11 @@
+{{
+  config( materialized = "table" )
+}}
+
+SELECT acc_org.name, tickets.tickets, at_risk.at_risk_since, 
+CASE WHEN at_risk.at_risk_since IS NULL THEN 0 ELSE tickets.tickets END AS healthscore
+FROM {{ref('acc_org')}} acc_org
+JOIN {{ref('tickets')}} tickets
+ON acc_org.id = tickets.organization_id
+JOIN {{ref('at_risk')}} at_risk
+ON acc_org.name = at_risk.name 
