@@ -1,0 +1,89 @@
+2023-04-26 11:49:31.708162 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 62741), raddr=('142.250.180.106', 443)>
+2023-04-26 11:49:31.711014 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 62745), raddr=('142.250.180.106', 443)>
+2023-04-26 11:50:15.484113 (MainThread): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 62766), raddr=('142.250.180.106', 443)>
+2023-04-26 11:50:15.486395 (MainThread): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 62770), raddr=('142.250.180.106', 443)>
+2023-04-26 11:50:15.489126 (MainThread): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 62772), raddr=('142.250.180.106', 443)>
+2023-04-26 11:50:15.491942 (MainThread): unclosed <ssl.SSLSocket fd=22, family=2, type=1, proto=0, laddr=('10.34.32.77', 62775), raddr=('142.250.180.106', 443)>
+2023-04-26 12:00:25.599851 (MainThread): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 62849), raddr=('142.250.180.106', 443)>
+2023-04-26 12:00:25.661209 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 62852), raddr=('142.250.180.106', 443)>
+2023-04-26 12:00:33.484812 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 62857), raddr=('142.250.180.106', 443)>
+2023-04-26 12:09:39.208439 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 62941), raddr=('142.250.180.106', 443)>
+2023-04-26 12:09:39.211333 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 62944), raddr=('142.250.180.106', 443)>
+2023-04-26 12:09:39.213617 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 62947), raddr=('142.250.180.106', 443)>
+2023-04-26 12:09:40.254366 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 62952), raddr=('142.250.180.106', 443)>
+2023-04-26 12:09:44.726610 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 62955), raddr=('142.250.180.106', 443)>
+2023-04-26 12:10:26.185388 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 62968), raddr=('142.250.180.106', 443)>
+2023-04-26 12:10:26.187077 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 62971), raddr=('142.250.180.106', 443)>
+2023-04-26 12:10:26.188756 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 62974), raddr=('142.250.180.106', 443)>
+2023-04-26 12:17:11.242295 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63029), raddr=('142.251.143.74', 443)>
+2023-04-26 12:17:11.246562 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63032), raddr=('142.251.143.74', 443)>
+2023-04-26 12:17:11.321115 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63035), raddr=('142.251.143.74', 443)>
+2023-04-26 12:17:21.570881 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63045), raddr=('142.251.143.74', 443)>
+2023-04-26 12:19:14.964040 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63068), raddr=('142.251.143.74', 443)>
+2023-04-26 12:19:14.965900 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63071), raddr=('142.250.180.106', 443)>
+2023-04-26 12:19:14.967573 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63074), raddr=('142.250.180.106', 443)>
+2023-04-26 12:23:49.579093 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63133), raddr=('142.250.180.106', 443)>
+2023-04-26 12:23:49.581193 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63136), raddr=('142.250.180.106', 443)>
+2023-04-26 12:23:49.647737 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63139), raddr=('142.250.180.106', 443)>
+2023-04-26 12:24:01.754906 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 63142), raddr=('142.250.180.106', 443)>
+2023-04-26 12:24:01.756646 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63146), raddr=('142.250.180.106', 443)>
+2023-04-26 12:24:01.758309 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63150), raddr=('142.250.180.106', 443)>
+2023-04-26 12:24:01.762800 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63153), raddr=('142.250.180.106', 443)>
+2023-04-26 12:44:57.764222 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63264), raddr=('142.251.143.74', 443)>
+2023-04-26 12:44:57.768429 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63267), raddr=('142.251.143.74', 443)>
+2023-04-26 12:45:08.104156 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63281), raddr=('142.251.143.74', 443)>
+2023-04-26 12:45:10.739297 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 63274), raddr=('142.251.143.74', 443)>
+2023-04-26 12:45:10.740491 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63278), raddr=('142.251.143.74', 443)>
+2023-04-26 12:45:10.742270 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63284), raddr=('142.251.143.74', 443)>
+2023-04-26 12:55:58.367910 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63361), raddr=('142.250.180.106', 443)>
+2023-04-26 12:55:58.370068 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63364), raddr=('142.250.180.106', 443)>
+2023-04-26 12:55:58.429912 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63367), raddr=('142.250.180.106', 443)>
+2023-04-26 12:57:33.076740 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63392), raddr=('142.250.180.106', 443)>
+2023-04-26 12:57:33.078399 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63395), raddr=('142.250.180.106', 443)>
+2023-04-26 12:57:33.079927 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63398), raddr=('142.250.180.106', 443)>
+2023-04-26 13:00:41.784599 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63427), raddr=('142.250.180.74', 443)>
+2023-04-26 13:00:41.786257 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63431), raddr=('142.250.180.74', 443)>
+2023-04-26 13:00:41.788082 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63433), raddr=('142.250.180.74', 443)>
+2023-04-26 13:02:51.888906 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63467), raddr=('142.250.180.74', 443)>
+2023-04-26 13:02:51.890918 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63470), raddr=('142.250.180.74', 443)>
+2023-04-26 13:02:51.892899 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63473), raddr=('142.250.180.74', 443)>
+2023-04-26 13:08:47.437515 (MainThread): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63546), raddr=('142.250.180.74', 443)>
+2023-04-26 13:08:59.524774 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63551), raddr=('142.250.180.74', 443)>
+2023-04-26 13:08:59.526986 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63556), raddr=('142.250.180.74', 443)>
+2023-04-26 13:08:59.528875 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63560), raddr=('142.250.180.74', 443)>
+2023-04-26 13:08:59.530865 (MainThread): unclosed <ssl.SSLSocket fd=49, family=2, type=1, proto=0, laddr=('10.34.32.77', 63564), raddr=('142.250.180.74', 443)>
+2023-04-26 13:17:02.650422 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63627), raddr=('142.250.180.106', 443)>
+2023-04-26 13:17:02.652184 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63632), raddr=('142.250.180.106', 443)>
+2023-04-26 13:17:02.714354 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63634), raddr=('142.250.180.106', 443)>
+2023-04-26 13:17:12.050763 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 63638), raddr=('142.250.180.106', 443)>
+2023-04-26 13:17:12.052409 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63641), raddr=('142.250.180.106', 443)>
+2023-04-26 13:17:12.053812 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63645), raddr=('142.250.180.106', 443)>
+2023-04-26 13:17:12.055343 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63647), raddr=('142.250.180.106', 443)>
+2023-04-26 13:18:45.266494 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63663), raddr=('142.250.180.74', 443)>
+2023-04-26 13:18:45.268998 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63668), raddr=('142.250.180.74', 443)>
+2023-04-26 13:18:45.342942 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63670), raddr=('142.250.180.74', 443)>
+2023-04-26 13:18:56.426613 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 63675), raddr=('142.250.180.74', 443)>
+2023-04-26 13:18:56.427967 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63678), raddr=('142.250.180.74', 443)>
+2023-04-26 13:18:56.429934 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63681), raddr=('142.250.180.74', 443)>
+2023-04-26 13:18:56.431948 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63683), raddr=('142.250.180.74', 443)>
+2023-04-26 13:26:21.054415 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63742), raddr=('142.250.180.106', 443)>
+2023-04-26 13:26:21.057392 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63745), raddr=('142.250.180.106', 443)>
+2023-04-26 13:26:21.144742 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63748), raddr=('142.250.180.106', 443)>
+2023-04-26 13:26:31.527493 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 63750), raddr=('142.250.180.106', 443)>
+2023-04-26 13:26:31.529839 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63753), raddr=('142.250.180.106', 443)>
+2023-04-26 13:26:31.531539 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63756), raddr=('142.250.180.106', 443)>
+2023-04-26 13:26:31.533574 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63759), raddr=('142.250.180.106', 443)>
+2023-04-26 13:31:08.860413 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63799), raddr=('142.250.180.106', 443)>
+2023-04-26 13:31:08.862634 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63803), raddr=('142.250.180.106', 443)>
+2023-04-26 13:31:08.932568 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63805), raddr=('142.250.180.106', 443)>
+2023-04-26 13:31:20.087094 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 63808), raddr=('142.250.180.106', 443)>
+2023-04-26 13:31:20.089092 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63811), raddr=('142.250.180.106', 443)>
+2023-04-26 13:31:20.090889 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63813), raddr=('142.250.180.106', 443)>
+2023-04-26 13:31:20.093748 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63818), raddr=('142.250.180.106', 443)>
+2023-04-26 13:36:52.667903 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=11, family=2, type=1, proto=0, laddr=('10.34.32.77', 63845), raddr=('142.250.180.74', 443)>
+2023-04-26 13:36:52.670558 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=14, family=2, type=1, proto=0, laddr=('10.34.32.77', 63848), raddr=('142.250.180.74', 443)>
+2023-04-26 13:36:52.745758 (Thread-1 (worker)): unclosed <ssl.SSLSocket fd=20, family=2, type=1, proto=0, laddr=('10.34.32.77', 63851), raddr=('142.250.180.74', 443)>
+2023-04-26 13:37:03.939603 (MainThread): unclosed <ssl.SSLSocket fd=13, family=2, type=1, proto=0, laddr=('10.34.32.77', 63854), raddr=('142.250.180.74', 443)>
+2023-04-26 13:37:03.941199 (MainThread): unclosed <ssl.SSLSocket fd=19, family=2, type=1, proto=0, laddr=('10.34.32.77', 63858), raddr=('142.250.180.74', 443)>
+2023-04-26 13:37:03.942832 (MainThread): unclosed <ssl.SSLSocket fd=21, family=2, type=1, proto=0, laddr=('10.34.32.77', 63861), raddr=('142.250.180.74', 443)>
+2023-04-26 13:37:03.944571 (MainThread): unclosed <ssl.SSLSocket fd=23, family=2, type=1, proto=0, laddr=('10.34.32.77', 63864), raddr=('142.250.180.74', 443)>
